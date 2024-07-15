@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/choose.jpg</file>
+    <file>images/1.jpg</file>
+    <file>images/2.jpg</file>
+    <file>images/3.jpg</file>
+    <file>images/4.jpg</file>
+    <file>images/5.jpg</file>
+    <file>images/a.png</file>
+    <file>images/b.png</file>
+    <file>images/c.png</file>
+    <file>images/d.png</file>
+    <file>images/e.png</file>
+    <file>images/h1.png</file>
+    <file>images/h2.png</file>
+    <file>images/h3.png</file>
+  </qresource>
+</RCC>
